@@ -1,6 +1,6 @@
-```html   My Laravel Project body { font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; padding: 20px; background-color: #f4f4f4; } h1, h2, h3 { color: #333; } code { background-color: #e2e2e2; padding: 2px 4px; border-radius: 4px; } pre { background-color: #e2e2e2; padding: 10px; border-radius: 4px; overflow: auto; }```
 
-My Laravel Project
+
+Freelance time
 ==================
 
 This is a Laravel project for managing posts and comments. The project implements a basic blogging system where users can create, edit, view, and delete posts, as well as add comments to the posts.
@@ -29,7 +29,7 @@ Follow the steps below to set up the project locally:
 
 1.  **Clone the repository:**
     
-        git clone https://github.com/your-username/your-repo.git
+        git clone https://github.com/jonatasriciano/freelance-time.git
         cd your-repo
     
 2.  **Install the dependencies:**
