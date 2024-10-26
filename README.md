@@ -1,4 +1,4 @@
-\`\`\`html   My Laravel Project body { font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; padding: 20px; background-color: #f4f4f4; } h1, h2, h3 { color: #333; } code { background-color: #e2e2e2; padding: 2px 4px; border-radius: 4px; } pre { background-color: #e2e2e2; padding: 10px; border-radius: 4px; overflow: auto; }
+```html   My Laravel Project body { font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; padding: 20px; background-color: #f4f4f4; } h1, h2, h3 { color: #333; } code { background-color: #e2e2e2; padding: 2px 4px; border-radius: 4px; } pre { background-color: #e2e2e2; padding: 10px; border-radius: 4px; overflow: auto; }```
 
 My Laravel Project
 ==================
